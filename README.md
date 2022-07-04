@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm NEERAJ JR</h1>
-
+[![MasterHead](https://1.bhttps://i.imgur.com/9OKRTaq.jpeg)
 <h3 align="center">A person who wants to enter the field of programming as a fresher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ndroidff&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ndroidff" alt="neerajjr" /></a> </p>
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 - 📫 Reach me **neerajmp985@gmail.com**
 
 - Fun Fact 😄 **I think I am funny when Iam happy 😄**
@@ -16,7 +16,7 @@
 
 <a href="https://instagram.com/neeraj_jr_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_jr_007" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/ꫂ𝜨ꪾ͢𝜮ꪾ𝜮ꪾ𝑹ꪾ͢𝞓ꪾ𝙅ꪾꪶ ꫂ𝑺꫁͢𝜩𝑹ꪶ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ꫂ𝜨ꪾ͢𝜮ꪾ𝜮ꪾ𝑹ꪾ͢𝞓ꪾ𝙅ꪾꪶ ꫂ𝑺꫁͢𝜩𝑹ꪶ" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ndroidff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ꫂ𝜨ꪾ͢𝜮ꪾ𝜮ꪾ𝑹ꪾ͢𝞓ꪾ𝙅ꪾꪶ ꫂ𝑺꫁͢𝜩𝑹ꪶ" height="30" width="40" /></a>
 
 </p>
 
