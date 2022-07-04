@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm NeerajJr</h1>
+<h1 align="center">Hi 👋, I'm NEERAJ JR</h1>
 
 <h3 align="center">A person who wants to enter the field of programming as a fresher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajjr&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ndroidff&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjr" alt="neerajjr" /></a> </p>
 
